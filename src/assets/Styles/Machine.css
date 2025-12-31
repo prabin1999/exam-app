@@ -1,5 +1,5 @@
 .mytask {
-  color: blue;
+  color: rgb(0, 0, 0);
   font-family: "Poppins", sans-serif;
 }
 .addbt {
@@ -13,7 +13,7 @@
   border: none;
 }
 .delebt {
-  background-color: rgb(9, 0, 51);
+  background-color: rgb(0, 0, 0);
   color: white;
   font-size: 16px;
   border-radius: 10px;
